@@ -1,4 +1,4 @@
-index,setID,duration,distance,emission,price,modal,duration_norm,distance_norm,emission_norm,price_norm
+index,setID,duration,length,emission,price,modal,duration_norm,length_norm,emission_norm,price_norm
 0,7.0,19.833333333333332,17.899,10.552,34.42703333333334,car,0.0,0.0,0.38772543226490613,0.9351048343558787
 1,7.0,107.0,24.592,26.52983407097173,4.0,public transport,0.8856900931414056,0.6896445131375578,0.9748191227334864,0.0
 2,7.0,82.55,19.185,0.0,23.6375,bicycle,0.6372565622353937,0.1325090159711487,0.0,0.6035133620649914
