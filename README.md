@@ -15,7 +15,7 @@ como configurar o .env:
 3. adicionar as chaves das APIs nos respectivos campos, substituindo o padrão 'YOUR-API-KEY'
 
 Cite as:
-
+```
 @inproceedings{sbrc,
  author = {Matheus Brito and Bruno Martins and Camilo Santos and Iago Medeiros and Felipe Araújo and Marcos Seruffo and Helder Oliveira and Eduardo Cerqueira and Denis Rosário},
  title = {Personalized Experience-aware Multi-criteria Route Selection for Smart Mobility},
@@ -30,4 +30,4 @@ Cite as:
  doi = {10.5753/sbrc.2023.513},
  url = {https://sol.sbc.org.br/index.php/sbrc/article/view/24561}
 }
-
+```
